@@ -1,5 +1,6 @@
 ### Hi there 👋
-This is my first Readme
+🌱 I’m currently learning AI & ML
+⚡ Fun fact: I am an INFJ
 <!--
 **faizabi/faizabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
