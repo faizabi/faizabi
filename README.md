@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://i.postimg.cc/SKg76Tms/white-technology-background-23-21483n90168.png"> </div>
+<div align="center"> <img src="https://github.com/faizabi/faizabi/blob/main/cover.png?raw=true"> </div>
 <h1 align="center">Salam! 👋, I'm Zabi</h1>
 <h3 align="center">An Aspiring AI/ML Developer and Data Enthusiast</h3>
 
