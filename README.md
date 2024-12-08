@@ -36,20 +36,19 @@
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faizabi&show_icons=true&locale=en" alt="faizabi" /></p>
   </div>
 </div>
-
-
-
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width 30%; margin-top: 50px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 50px;">
+  <div style="width: 30%;">
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=faizabi&" alt="faizabi" /></p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizabi" alt="faizabi" /></a> </p>
   </div>
-  <div style="width 100%;">
-    <img src="https://i.postimg.cc/xTq7cZV6/pixai-17399159918740941791-1.png" width="350" height="500" float:"left;">
+  <div style="width: 60%; display: flex; justify-content: center;">
+    <img src="https://i.postimg.cc/xTq7cZV6/pixai-17399159918740941791-1.png" width="350" height="500" style="float: left;">
   </div>
 </div> 
 
-<div align="center"> <img src="https://i.postimg.cc/pTGg9J9b/pixai-1740113105346j3346m83-1.png" width="350" height="500"> </div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://i.postimg.cc/pTGg9J9b/pixai-1740113105346j3346m83-1.png" width="350" height="500">
+</div>
 <div align="center" style="margin-top: 20px; font-weight: bold; font-size: 65px;">
-<p> THE END </p> </div>
+  <p> THE END </p>
+</div>
